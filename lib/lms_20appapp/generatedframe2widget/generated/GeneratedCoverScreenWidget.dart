@@ -22,7 +22,7 @@ class GeneratedCoverScreenWidget extends StatelessWidget {
         child: Stack(
             fit: StackFit.expand,
             alignment: Alignment.center,
-            overflow: Overflow.visible,
+            clipBehavior: Clip.none,
             children: [
               ClipRRect(
                 borderRadius: BorderRadius.circular(35.0),

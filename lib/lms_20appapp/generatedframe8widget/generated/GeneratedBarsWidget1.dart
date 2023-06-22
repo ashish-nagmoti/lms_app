@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutterapp/helpers/transform/transform.dart';
-import 'package:flutterapp/lms_20appapp/generatedframe8widget/generated/GeneratedSignupWidget1.dart';
+import 'package:flutterapp/lms_20appapp/generatedframe8widget/generated/GeneratedSignUpWidget1.dart';
 import 'package:flutterapp/lms_20appapp/generatedframe8widget/generated/GeneratedArrowWidget1.dart';
 
 /* Instance Bars
@@ -15,7 +15,7 @@ class GeneratedBarsWidget1 extends StatelessWidget {
       child: Stack(
           fit: StackFit.expand,
           alignment: Alignment.center,
-          overflow: Overflow.visible,
+          clipBehavior: Clip.none,
           children: [
             Positioned(
               left: null,
@@ -25,7 +25,7 @@ class GeneratedBarsWidget1 extends StatelessWidget {
               width: 60.0,
               height: 26.0,
               child: TransformHelper.translate(
-                  x: 0.50, y: 1.00, z: 0, child: GeneratedSignupWidget1()),
+                  x: 0.50, y: 1.00, z: 0, child: GeneratedSignUpWidget1()),
             ),
             Positioned(
               left: 0.0,

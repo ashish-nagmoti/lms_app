@@ -18,7 +18,7 @@ class GeneratedGroup5305Widget extends StatelessWidget {
       child: Stack(
           fit: StackFit.expand,
           alignment: Alignment.center,
-          overflow: Overflow.visible,
+          clipBehavior: Clip.none,
           children: [
             Positioned(
               left: 129.53067016601562,

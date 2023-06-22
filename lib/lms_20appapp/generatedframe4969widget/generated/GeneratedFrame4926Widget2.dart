@@ -15,7 +15,7 @@ class GeneratedFrame4926Widget2 extends StatelessWidget {
       child: Stack(
           fit: StackFit.expand,
           alignment: Alignment.center,
-          overflow: Overflow.visible,
+          clipBehavior: Clip.none,
           children: [
             Positioned(
               left: 71.5,

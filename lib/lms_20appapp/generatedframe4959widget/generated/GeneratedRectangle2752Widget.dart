@@ -12,7 +12,7 @@ class GeneratedRectangle2752Widget extends StatelessWidget {
       child: Stack(
           fit: StackFit.expand,
           alignment: Alignment.center,
-          overflow: Overflow.visible,
+          clipBehavior: Clip.none,
           children: []),
       offset: Offset(0.0, 0.0),
     );

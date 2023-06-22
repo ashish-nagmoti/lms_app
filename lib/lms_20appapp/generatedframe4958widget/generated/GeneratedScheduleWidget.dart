@@ -28,7 +28,7 @@ class GeneratedScheduleWidget extends StatelessWidget {
       child: Stack(
           fit: StackFit.expand,
           alignment: Alignment.center,
-          overflow: Overflow.visible,
+          clipBehavior: Clip.none,
           children: [
             Positioned(
               left: 0.0,
