@@ -1,8 +1,11 @@
 # lmsapp
 
-Flutter Application created with help of figma and flutlab and dart language.
+Flutter Application created with help of figma and flutter and dart language.
+It's an app made for students who wants to learn online
+help us in improving it
 
-### Getting Started: FlutLab - Flutter Online IDE
+
+
 
 This is learning management system app which is made
 for students for smooth learning experience.
