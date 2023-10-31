@@ -1,8 +1,8 @@
-# lmsapp
+# LMS app
 
-Flutter Application created with help of figma and flutter and dart language.
-It's an app made for students who wants to learn online
-help us in improving it
+LMS aka Learning Management System is Flutter Application created with help of figma and flutter and dart language.
+It's an build for students and they will be able to learn online through this app.
+help us in improving it .
 
 
 
